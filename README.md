@@ -141,7 +141,11 @@ cp .env.example .env
 php artisan key:generate
 php artisan migrate
 php artisan storage:link
-
+```
+#➡️x-app/database/seeders/AdminKeySeeder.php  
+🚨上記のファイルを任意の値に変更して下記のコマンドを実行して下さい!!
+```bash
+php artisan db:seed
 ```
 
 ---
