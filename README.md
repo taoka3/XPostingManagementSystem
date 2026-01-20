@@ -1,5 +1,8 @@
 # X（旧Twitter）投稿ダッシュボード 仕様書
 
+<img width="1268" height="576" alt="image" src="https://github.com/user-attachments/assets/b4c61332-7b81-4eae-9a09-34750804e956" />
+
+
 ## 1. 概要
 
 本システムは **Laravel 12** を用いて構築された、X（旧Twitter）への投稿を管理・実行するためのWebアプリケーションである。認証されたユーザーはダッシュボード画面から、テキスト投稿および画像付き投稿（最大4ファイル）を即時または予約して行うことができる。
